@@ -1,0 +1,127 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+
+}
+
+.nav-logo img{
+    height: 70px;
+    width: 70px;
+}
+.nav-link{
+    color: rgb(255, 174, 0);
+}
+.mother-sec-1{
+background-image: url(images/polytechnic/Academic\ Building.jpg);
+background-repeat: no-repeat;
+background-position: center;
+margin: 0%;
+
+}
+.welcome-text{
+    padding: 10%;
+    color: rgb(243, 10, 10);
+;
+
+}
+.half-width{
+    width: 50%;
+    padding: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.half-width img{
+    width: 50%;
+    padding-left: 5%;
+    margin-left: 20%;
+}
+.about{
+    display: flex;
+}
+
+
+.faculty-color{
+    color: rgb(249, 98, 4);
+    padding: 1%;
+    background-position: center;
+    text-decoration-line: underline;
+    text-decoration-color: rgb(2, 83, 2);
+
+}
+.list{
+    border: 2%;
+    color: rgb(38, 56, 38);
+    border-radius: 0%;
+    border-color: black;
+    border-style: dotted;
+    
+}
+
+/* .carousel{
+    height: 720px;
+    width: 1080px;
+} */
+.nasir-sec-1{
+    border-top: 5px solid rgb(25, 10, 239);
+}
+.nasir-sec-2{
+    border-top: 10px solid orange;
+    background-color: rgb(216, 230, 193);
+}
+.nasir-sec-3{
+    border-top: 5px solid rgb(28, 83, 2);
+    background-color: rgb(184, 196, 145);
+    margin-bottom: 2%;
+    padding-bottom: 2%;
+}
+/* ----------------------------------cmt-start---------------------- */
+.cmt-sec-1{
+    border-top: 5px solid rgb(25, 10, 239);
+    border-bottom: 5px solid orange;
+    border-left: 5px solid red;
+    border-right: 5px solid rgb(72, 255, 0);
+    margin: 5%;
+    padding: 5%;
+}
+.logo-2 img{
+    width: 70%;
+}
+.cmt-body{
+    font-family: 'Bungee Spice', cursive;
+    font-family: 'Delius Swash Caps', cursive;
+    font-family: 'Oswald', sans-serif;
+}
+.gallery{
+    border-bottom: 5px solid rgb(1, 45, 30);
+    background-color: rgb(194, 243, 209);
+    border-top: 5px solid rgb(1, 45, 30);
+    border-radius: 50em;
+    border-color: brown;
+    border-style: dotted;
+}
+.gallery-color {
+    border-top: 5px solid rgb(48, 239, 10);
+    border-bottom: 5px solid orange;
+    border-left: 5px solid red;
+    border-right: 5px solid blue;
+    margin: 5%;
+    padding: 5%;
+}
+.gallery-sec-2{
+    margin: 5%;
+    padding: 0%;
+    background-color: antiquewhite;
+}
+.gallery-sec-1{
+    background-color: rgb(207, 248, 241);
+}
+.gallery-body{
+    background-color: brown;
+}
+
+.footer {
+    text-align: center;
+    margin-top: 10px;
+    background-color: rgb(0, 0, 0);
+    color: rgb(253, 251, 251);
+    font-family: 'Bungee Spice', cursive;
+}

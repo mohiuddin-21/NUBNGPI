@@ -1,0 +1,13 @@
+<section class="nasir-sec-2">
+        <div class="about">
+            <div class="half-width">
+                <h1>About Us</h1>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Debitis adipisci voluptates, animi eaque minus quasi quae mollitia corporis blanditiis ipsum molestias a aperiam itaque ex. Veniam debitis eligendi est sit.</p>
+                <button  type="button" class="btn btn-outline-success"  >Success</button>
+
+            </div>
+            <div class="half-width">
+                <img src="images/Nasir Logo/Nasir-01.png" alt="">
+            </div>
+        </div>
+    </section>
